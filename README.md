@@ -111,11 +111,14 @@ Project ini dapat dijalankan dengan mudah menggunakan **Live Server / Live Previ
 1. Buka folder project di VS Code.
 2. Pastikan file `index.html`, `style.css`, `script.js`, dan folder `img` berada pada struktur yang benar.
 3. Install extension **Live Preview** jika belum tersedia.
+4. Klik kanan file `index.html`.
+5. Pilih **Open with Live preview**.
+6. Website akan otomatis terbuka di browser melalui server lokal.
+   
+   <br>
+   tampilan extension:
    <img width="206" height="61" alt="image" src="https://github.com/user-attachments/assets/0d961462-1ed3-4378-9276-01e690ec55e9" />
-5. Klik kanan file `index.html`.
-6. Pilih **Open with Live preview**.
-7. Website akan otomatis terbuka di browser melalui server lokal.
-
+   <br>
 
 🚀 Development Goal
 
