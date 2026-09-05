@@ -9,17 +9,8 @@ Preview Website
 
 <p align="center">
   <img width="1885" height="1104" alt="image" src="https://github.com/user-attachments/assets/1cc81f86-a379-483b-b00d-e3ed7c36c1de" />
-  &nbsp;
-  <img src="img/2.png" alt="Preview Kegiatan 2" width="42%">
 </p>
 
-<p align="center">
-  <img width="1876" height="1238" alt="image" src="https://github.com/user-attachments/assets/9f7e6374-e751-4fe4-9e08-036829338205" />
-  &nbsp;
-  <img src="img/4.jpg" alt="Preview Kegiatan 4" width="42%">
-</p>
-
-Catatan: gambar di atas menggunakan asset yang memang sudah ada di project sebagai preview visual. Tampilan final website akan menggabungkan asset tersebut dengan layout dan animasi cinematic.
 
 ## 🧩 Struktur Project
 
