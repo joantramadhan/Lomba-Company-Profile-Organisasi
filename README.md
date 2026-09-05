@@ -111,15 +111,18 @@ Project ini dapat dijalankan dengan mudah menggunakan **Live Server / Live Previ
 1. Buka folder project di VS Code.
 2. Pastikan file `index.html`, `style.css`, `script.js`, dan folder `img` berada pada struktur yang benar.
 3. Install extension **Live Preview** jika belum tersedia.
+   <br>
+   <br>tampilan extension:<br>
+   <img width="206" height="61" alt="image" src="https://github.com/user-attachments/assets/0d961462-1ed3-4378-9276-01e690ec55e9" />
+   <br>
 4. Klik kanan file `index.html`.
 5. Pilih **Open with Live preview**.
 6. Website akan otomatis terbuka di browser melalui server lokal.
+   <br>
+   <img width="332" height="70" alt="image" src="https://github.com/user-attachments/assets/6a05dba1-6169-4388-bb04-d46f98e2634a" /> <br> salin link yang ada di sini lalu buka di browser<br>
+<br>
    
-   <br>
-   tampilan extension:
-   <img width="206" height="61" alt="image" src="https://github.com/user-attachments/assets/0d961462-1ed3-4378-9276-01e690ec55e9" />
-   <br>
-
+   
 🚀 Development Goal
 
 Project ini dapat dikembangkan menjadi website organisasi mahasiswa dengan pengalaman visual yang lebih kuat melalui:
